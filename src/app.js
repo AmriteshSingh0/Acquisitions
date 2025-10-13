@@ -3,7 +3,7 @@ import express from 'express';
 const app = express();  
 
 app.get('/',(req,res)=>{
-    res.status(200).send("Whatsapp from the server bro")
-})
+  res.status(200).send('Whatsapp from the server bro');
+});
 
 export default app;
