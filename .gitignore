@@ -12,3 +12,6 @@ npm-debug.log*
 # Optional build folder
 /build
 /dist
+
+# Neon Local metadata
+.neon_local/
